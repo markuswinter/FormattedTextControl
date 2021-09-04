@@ -1300,7 +1300,7 @@ Protected Module GUStyledText
 		
 		  Return:
 		  
-		    StyledRext:
+		    StyledText:
 		      A sub style.
 	#tag EndNote
 
